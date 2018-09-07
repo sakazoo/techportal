@@ -16,5 +16,5 @@ TF-IDFの結果をCSVファイルに書き込む。
 入力された内容に類似するチケットを提示する。第一引数に相談内容を入力する必要がある。
 
 ## 注意点
-MeCabをJNIで実行しているため、NLPSample/techportal/dll内のlibmecab.dllファイルを
-C:\Windows\System32配下に置くか、環境変数にパスを通す必要あり。
+MeCabをJNIで実行しているため、`NLPSample/techportal/dll`内の`libmecab.dll`ファイルを
+`C:\Windows\System32`配下に置くか、環境変数にパスを通す必要あり。
