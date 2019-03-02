@@ -1,6 +1,9 @@
 ## 概要
 Excellに記載されている文章を読み取り、類似文章を提示することを目的として作成。
+
 自然言語処置の一般的な手法である「tf-idf」と「Cos類似度」の組み合わせを用いて検証を行っている。
+
+詳細はこちら→https://dev.classmethod.jp/machine-learning/yoshim_2017ad_tfidf_1-2/
 
 ## アプリ説明
 `DisplayRelationalTicketMain.java`
